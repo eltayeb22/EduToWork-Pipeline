@@ -1,5 +1,6 @@
 # EduToWork-Pipeline
 # EduToWork: Data Jobs Analytics Platform
+https://edutowork-pipeline-acdpamzrnumhyuexd49r6b.streamlit.app/ 
 
 An automated data pipeline and dashboard that aggregates, processes, and visualizes global remote job listings in the data field. It tracks technical skill demands to help professionals align their expertise with current market trends.
 
